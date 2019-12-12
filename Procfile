@@ -1,1 +1,1 @@
-web: gunicorn app:shitnet --log-file=-
+web: gunicorn shitnet:app --log-file=-
