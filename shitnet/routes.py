@@ -17,10 +17,6 @@ def home():
 import os 
 from flask import send_from_directory     
 
-@app.route('/favicon.ico') 
-def favicon(): 
-    return True
-
 @app.route('/about')
 def about():
     return render_template('about.html')
