@@ -14,7 +14,7 @@ Jinja2==2.10.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-Pillow==6.2.1
+Pillow==8.2.0
 psycopg2==2.8.4
 pycparser==2.19
 pylint==2.4.4
